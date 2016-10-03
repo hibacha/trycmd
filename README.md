@@ -1,0 +1,2 @@
+# trycmd
+try
